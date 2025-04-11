@@ -67,3 +67,6 @@ Customer behavior segmentation.
 
 Integration with real-time data or APIs.
 
+Here is the image of my dashboar:
+![image](https://github.com/user-attachments/assets/9625368b-cad9-4848-9174-8344274863ff)
+
