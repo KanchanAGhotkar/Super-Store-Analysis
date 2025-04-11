@@ -1,7 +1,7 @@
 # Super-Store-Analysis
 Super store analysis project using Power BI.
 
-# Superstore Sales Dashboard – Power BI Project#
+# Superstore Sales Dashboard – Power BI Project
 # Project Overview
 This project presents a comprehensive Power BI dashboard built using the popular Superstore dataset. The dashboard delivers key business insights by visualizing sales performance across various dimensions such as state, city, shipping method, customer segment, and more.
 
